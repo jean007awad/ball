@@ -1,0 +1,13 @@
+{
+    "name": "jean/ballpackage",
+    "description": "test",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Jean Awad",
+            "email": "jeanawad@outlook.com"
+        }
+    ],
+    "require": {}
+}
